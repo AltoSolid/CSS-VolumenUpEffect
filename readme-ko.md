@@ -2,13 +2,14 @@
 이 코드는 이 [유튜브 채널](https://www.youtube.com/watch?v=gQf5BBmLCfI&t=31s)를 기반으로한다
 
 # Readme의 언어 버전
-[Version español]()
+[Version español](https://github.com/AltoSolid/CSS-VolumenUpEffect/blob/main/readme-es.md)
 
-[English version]()
+[English version](https://github.com/AltoSolid/CSS-VolumenUpEffect/blob/main/readme.md)
 
 # 결과
-![one]()
-![two]()
+![one](https://github.com/AltoSolid/CSS-VolumenUpEffect/blob/main/img/one.png)
+
+![two](https://github.com/AltoSolid/CSS-VolumenUpEffect/blob/main/img/two.png)
 
 
 # 유용한 정보
@@ -21,7 +22,7 @@ at-rules:
 Pseudo-Elements: 
 
 - [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before)
-- 
+
 - [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)
 
 CSS Function: 

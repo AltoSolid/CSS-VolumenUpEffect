@@ -1,16 +1,16 @@
 # Effecto subir volumen
 Este pequeño código está basado en el video del canal de [EasyLearnCode AB Youtube Channel](https://www.youtube.com/watch?v=gQf5BBmLCfI&t=31s) con algunas modificaciones. 
 
-This little project is based on the video of [EasyLearnCode AB Youtube Channel](https://www.youtube.com/watch?v=gQf5BBmLCfI&t=31s) with some modifications. 
 
 # Versiones idiomas Readme
-[English version]()
+[English version](https://github.com/AltoSolid/CSS-VolumenUpEffect/blob/main/readme.md)
 
-[한국어 버전]()
+[한국어 버전](https://github.com/AltoSolid/CSS-VolumenUpEffect/blob/main/readme-ko.md)
 
 # Resultado
-![one]()
-![two]()
+![one](https://github.com/AltoSolid/CSS-VolumenUpEffect/blob/main/img/one.png)
+
+![two](https://github.com/AltoSolid/CSS-VolumenUpEffect/blob/main/img/two.png)
 
 
 # Información útil
@@ -23,7 +23,7 @@ at-rules:
 Pseudo-Elementos: 
 
 - [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before)
-- 
+
 - [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)
 
 CSS Función: 
